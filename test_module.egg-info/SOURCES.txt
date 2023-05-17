@@ -1,0 +1,8 @@
+setup.py
+test_multip.c
+test_pyc.c
+test_pyc_module.c
+test_module.egg-info/PKG-INFO
+test_module.egg-info/SOURCES.txt
+test_module.egg-info/dependency_links.txt
+test_module.egg-info/top_level.txt
